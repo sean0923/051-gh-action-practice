@@ -1,4 +1,4 @@
-name: Deploy
+name: Output Event Detail
 
 on: issues
 
